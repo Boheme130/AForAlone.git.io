@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## A is for Alone
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
+<br>
+<br>
+![avatar](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603737690i/55808758._UY2200_SS2200_.jpg)
 
-You can use the [editor on GitHub](https://github.com/Boheme130/AForAlone.git.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这周在纽约客上看了Stittenfeld最新的短篇小说《A代表独处(Alone)》。彭斯铁律是美国副总统彭斯的一系列行为准则，其中就包含已婚伴侣应避免和自己性别相反的人独处。身为自由派的艺术家艾琳觉得这个规则简直是bullshxt，于是她开始了一项艺术活动。艾琳已经和医生丈夫结婚多年，现在她邀请不同的已婚男人一起吃饭，并在吃饭后让他们填写一份表格，询问他们上一次和异性吃饭是什么时候。她想让人们相信，已婚人士和异性社交，并不是一项社会禁令。
 
-### Markdown
+艾琳尝试了大学异性挚友，前任上司，儿子的棒球教练，孩子同学的家长等异性后，发现许多已婚人士都无意间遵循着彭斯铁律。她为自己的项目感到失望。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+每年的元旦派对，艾琳的邻居威斯康辛大学教授夫妇都会举办一场派对，而每一年艾琳都会见到Jack夫妇。Jack英俊温柔，为湾区的一家咨询公司工作。当艾琳和Jack共进晚餐时，艾琳发现Jack英俊而不自知。艾琳向Jack吐槽彭斯铁律的无理，并希望Jack填写那份表格，但Jack却认为艾琳通过这份艺术项目约会了无数男人，艾琳非常生气，晚餐不欢而散，最终的表格也没有填写。
 
-```markdown
-Syntax highlighted code block
+Jack感到非常抱歉，第二天他决定重新给艾琳填写那份表格。两人在酒吧见面，在聊天中，Jack倾诉了自己婚姻的崩溃，并希望艾琳做自己的小三。艾琳开始回顾自己和丈夫的关系，她当初嫁给丈夫的原因，竟然是因为丈夫即将奔赴安娜堡医学院求学，而自己希望能够离开故乡生活。十多年的婚姻没有任何的激情。就这样，艾琳和Jack开始幽会。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/AForAlone.git.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+但不久之后，Jack的妻子捉奸，两人的关系被迫终止。艾琳对自己又一次证实了彭斯铁律感到无比沮丧，当她向教授夫妇坦白时，教授很震惊她居然让彭斯主导自己的生活。艾琳二极管式的思维方式最终让她弄出了这场闹剧。
