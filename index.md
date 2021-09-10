@@ -2,7 +2,7 @@
 [回到主页](https://boheme130.github.io/Fiction.git.io/)
 <br>
 <br>
-![avatar](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603737690i/55808758._UY2200_SS2200_.jpg)
+![avatar](https://media.newyorker.com/photos/59b9510e12c3b73159168faf/16:9/w_1280,c_limit/170925_r30573.jpg)
 
 
 这周在纽约客上看了Stittenfeld最新的短篇小说《A代表独处(Alone)》。彭斯铁律是美国副总统彭斯的一系列行为准则，其中就包含已婚伴侣应避免和自己性别相反的人独处。身为自由派的艺术家艾琳觉得这个规则简直是bullshxt，于是她开始了一项艺术活动。艾琳已经和医生丈夫结婚多年，现在她邀请不同的已婚男人一起吃饭，并在吃饭后让他们填写一份表格，询问他们上一次和异性吃饭是什么时候。她想让人们相信，已婚人士和异性社交，并不是一项社会禁令。
